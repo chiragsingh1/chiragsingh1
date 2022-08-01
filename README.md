@@ -8,7 +8,7 @@
 - ⭐ Aspiring Software Engineer. <br>
 - ✨ Industry Level Experience in Full Stack Development, specialising in MERN/MEAN stack development. <br/>
 - 📄 Final Year Bachelor of Technology, B.Tech student at Delhi Technological University. <br/>
-- 🔭 I’m activel looking for Full Time Software Developer/Engineer Roles.<br>
+- 🔭 I’m actively looking for Full Time Software Developer/Engineer Roles.<br>
 - 🌱 I’m regularly doing problem solving. <br>
 - 🤝 Find my resume here: <a href="https://drive.google.com/file/d/1gSTo_IdO9LZI_ucbA2-La1ucE_IxJNTV/view?usp=sharing" target="_blank" > My Resume </a> <br>
 - 📫 You can contact me at <a href="mailto:imchirag.2717@gmail.com" target="_blank">imchirag.2717@gmail.com.

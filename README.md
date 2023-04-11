@@ -1,4 +1,4 @@
-<h1 align="center"><> Hi 👋, I'm Chirag Singh <></h1>
+<h1 align="center"><> Hi 👋, I'm Chirag Singh </></h1>
 <h4 align="center">
   Aspiring Software Developer/Engineer, Actively looking for full-time opportunities as SDE/SWE. <br/>
   Proficient problem solver and quick learner with industry-level intern experience in full stack development.

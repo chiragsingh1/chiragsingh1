@@ -1,16 +1,16 @@
 <h1 align="center"><> Hi 👋, I'm Chirag Singh <></h1>
 <h4 align="center">
   Aspiring Software Developer/Engineer, Actively looking for full-time opportunities as SDE/SWE. <br/>
-  Proficient problem solver and quick learner with industry-level intern experience in full stack development.
+  Proficient problem solver and quick learner with industry-level intern experience in software engineering.
 </h4>
 <br/><img align="right" alt="GIF" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" width="450"
     height="300" />
 - ⭐ Aspiring Software Engineer. <br>
-- ✨ Industry Level Experience in Full Stack Development, specialising in MERN/MEAN stack development. <br/>
+- ✨ Industry Level Experience in Software Development, specialising in MERN/MEAN stack development. <br/>
 - 📄 Final Year Bachelor of Technology, B.Tech student at Delhi Technological University. <br/>
 - 🔭 I’m actively looking for Full Time Software Developer/Engineer Roles.<br>
 - 🌱 I’m regularly doing problem solving. <br>
-- 🤝 Find my resume here: <a href="https://drive.google.com/file/d/1FXeO9VjEjTVC9oo0Yl47yOvKGAYX3Qq3/view?usp=sharing" target="_blank" > My Resume </a> <br>
+- 🤝 Find my resume here: <a href="https://drive.google.com/file/d/1tiYKk24jn1F1eCRJfMQwBi4Acy8D0HOx/view?usp=share_link" target="_blank" > My Resume </a> <br>
 - 📫 You can contact me at <a href="mailto:imchirag.2717@gmail.com" target="_blank">imchirag.2717@gmail.com.
 
 <h3>Social Links </h3>
